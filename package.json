@@ -1,0 +1,20 @@
+{
+  "name": "weboacj",
+  "version": "1.0.0",
+  "description": "weboacj是(Koa2 + Vue)同构快速开发框架（她们说狼叔掌握的新技术）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/weboacj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/weboacj/issues"
+  },
+  "homepage": "https://github.com/i5ting/weboacj#readme"
+}
