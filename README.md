@@ -42,3 +42,27 @@ $ tree . -L 3
 
 14 directories, 20 files
 ```
+
+核心
+
+```
+src
+├── detail
+│   ├── App.vue
+│   ├── api
+│   │   └── a.js
+│   ├── assets
+│   │   └── logo.png
+│   ├── components
+│   │   └── Hello.vue
+│   ├── index.html
+│   ├── main.js
+│   └── router
+│       └── index.js
+└── index
+    ├── App.vue
+    ├── api
+    │   └── a.js
+    ├── index.html
+    └── main.js
+```
